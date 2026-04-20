@@ -71,7 +71,7 @@ logger = logging.getLogger("SecureBot")
 
 
 TOKEN = '8396344168:AAHri03e_afzF6CE9NkTwx0kJpXAOShJFbc'
-ADMIN_ID = 8271626562
+ADMIN_ID = 8405201865
 YOUR_USERNAME = '@mora_330'
 CHANNEL_USERNAME = '@I_FIY'
 
